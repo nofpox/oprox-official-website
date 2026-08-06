@@ -1,0 +1,6 @@
+{
+  "name": "OPROX Official Website",
+  "description": "Official portal for the OPROX ecosystem and its five independent products: OPROX OS, OPROX Code, OPROX Studio, OPROX Real Estate, and OPROX Academy.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
