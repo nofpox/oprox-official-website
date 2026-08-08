@@ -19,7 +19,6 @@ import {
   Building2, 
   GraduationCap,
   Building,
-  CheckCircle2
 } from 'lucide-react';
 
 export const AccountPage: React.FC = () => {

@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+
+# Block auth and account pages from indexing (no crawlable content)
+Disallow: /login
+Disallow: /signup
+Disallow: /get-started
+Disallow: /account
+
+# Block API routes
+Disallow: /api/
+
+Sitemap: https://oprox.sa/sitemap.xml

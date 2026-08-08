@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { useLanguage } from '../context/LanguageContext';
 import { content } from '../translations/content';
 import { SEOHead } from '../components/SEOHead';
-import { Mail, MapPin, Clock, Send, CheckCircle2 } from 'lucide-react';
+import { MapPin, Send, CheckCircle2 } from 'lucide-react';
 
 export const ContactPage: React.FC = () => {
   const { lang } = useLanguage();
